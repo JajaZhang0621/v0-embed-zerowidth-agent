@@ -13,19 +13,19 @@
 
 const chatConfig = {
   flowURL:
-    "https://api.zerowidth.ai/v1/process/UvxlzCFXzR3aAgvsD8Nf/QDcqFRhjjrjZUTHsvxWX",
+    "https://api.zerowidth.ai/beta/process/OCWi9PTGrb7OPwZ6FBbp/f0YLyfmOwPQTlXc02ltP",
   header: {
-    title: "Chat with ELIZA",
+    title: "OpenBook - Chat with Mei",
     description:
-      "Greetings, I am a draft clone of ELIZA running the DOCTOR script. HOW DO YOU DO. PLEASE STATE YOUR PROBLEM.",
+      "Hey there! I’m Mei, I am here to help you to know me better. Grab a coffee, and let’s chat!",
   },
-  suggestedPromptsTitle: "Here are some suggested prompts.",
+  suggestedPromptsTitle: "You could ask me about things like",
   suggestedPrompts: [
-    "I spend too much time with computers.",
-    "I feel overwhelmed trying to keep up with AI trends.",
-    "I am anxious about the future.",
+    "What’s the best way to share feedback with you?",
+    "How do you prefer to handle conflicts or disagreements?",
+    "What motivates you the most at work?",
   ],
-  chatInputPlaceholder: "Chat with this agent...",
+  chatInputPlaceholder: "Chat with Mei",
   maxChatHeight: 400,
 };
 
