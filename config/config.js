@@ -13,7 +13,7 @@
 
 const chatConfig = {
   flowURL:
-    "https://api.zerowidth.ai/v1/process/f0YLyfmOwPQTlXc02ltP",
+    "https://api.zerowidth.ai/v1/process/OCWi9PTGrb7OPwZ6FBbp/f0YLyfmOwPQTlXc02ltP",
   header: {
     title: "OpenBook - Chat with Mei",
     description:
